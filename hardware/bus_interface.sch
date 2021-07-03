@@ -430,9 +430,9 @@ Wire Wire Line
 Wire Wire Line
 	6050 1400 5850 1400
 Wire Wire Line
-	5850 1900 5850 1400
+	5850 1400 5850 1900
 Wire Wire Line
-	1250 1900 5850 1900
+	5850 1900 1250 1900
 Wire Wire Line
 	6650 2400 6650 1950
 Wire Wire Line
@@ -796,4 +796,6 @@ Wire Wire Line
 	6650 3250 6650 3200
 Wire Wire Line
 	6650 3200 7350 3200
+Text Notes 7550 3400 0    60   ~ 0
+~Q~ is asserted when D is '1' during a positive \nclock edge and remains asserted (even when \nD = '0' during a positive clock edge) until Cd is \nasserted.
 $EndSCHEMATC

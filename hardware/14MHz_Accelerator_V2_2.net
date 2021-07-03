@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:/Projects/A500_Accelerator/Kicad/14MHz_Accelerator_V2_2/14MHz_Accelerator_V2_2.sch)
-    (date "30-6-2021 19:41:43")
+    (date "3-7-2021 19:29:30")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

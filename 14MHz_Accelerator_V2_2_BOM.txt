@@ -1,0 +1,42 @@
+RefDes		Partnumber	Remarks
+#####################################################################################
+
+U1,U3		512K*8 SRAM	IS61C5128AS-25TLI or similar
+
+U2		MC68HC000	PLCC-68 Thru Hole socket 
+
+U4,U9		74ACT02		U4 can be 74HCT02
+
+U5		74HCT74		must be HCT
+
+U6		74ACT112	
+
+U7		74HCT4046	also 74HC4046 if CDAC not used
+
+U8		74ACT08		
+
+U10		74ACT32		
+
+U11		TLC555CD	or any other CMOS 555
+
+J1		2 * 32pinstrip	machined pins only. for example 2 * TS-132-T-A 
+
+C1,C2,C3,
+C4,C5,C6,
+C7,C8,C10,
+C12,C13,C14,
+C17		100n		0805 
+
+C9,C15		100p		0805
+
+C11		22p		0805
+
+C16		47u/16V		2.5mm radial 6.3mm dia
+
+R1,R2		2K2		0805
+
+R3		4K3		0805 (might need tuning)
+
+R4		33 Ohm		0805	
+
+R5		100K		0805
