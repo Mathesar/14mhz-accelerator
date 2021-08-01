@@ -1,7 +1,7 @@
 RefDes		Partnumber	Remarks
 #####################################################################################
 
-U1,U3		512K*8 SRAM	IS61C5128AS-25TLI or similar
+U1,U3		512K*8 SRAM	IS61C5128AS-25TLI or similar 5V type
 
 U2		MC68HC000	PLCC-68 Thru Hole socket 
 
